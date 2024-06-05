@@ -8,5 +8,3 @@ Welcome to my GitHub profile!
 Feel free to browse my repositories and say hi!
 
 Happy coding! 😊
-
-OE
